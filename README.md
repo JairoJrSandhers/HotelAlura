@@ -1,2 +1,2 @@
-# HotelAlura
+# Hotel Alura
 Hotel Alura
